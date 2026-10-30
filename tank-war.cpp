@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout << "test" << endl;
+    cout << "zs-login-test" << endl;
     return 0;
 }
