@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout << "test" << endl;
+    cout << "ls-register-test" << endl;
     return 0;
 }
